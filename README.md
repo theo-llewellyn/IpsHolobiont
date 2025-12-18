@@ -40,6 +40,7 @@ Phylogenetic Placement uses the phylogenetic trees of Llewellyn et al. (2025) un
 
 ### 2. Phylogenetic Placement
 1. `./phylogenetic_placement.sh` pulls ophiostomatoid OTUs from full dataset, aligns to reference ITS MSAs, places phylogenetically and summarises results using GAPPA
+2. `./EPA_dnabarcoder_comparison.R` compares IDs from EPA and those from dynamic clustering and dnabarcoder.
 
 ### 3. PIME
 1. `./PIME.R` uses prevalence filtering and Random Forests to detect core OTUs for Ips typographus
