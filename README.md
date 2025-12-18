@@ -21,7 +21,7 @@ Theo Llewellyn<sup>1,2,#,</sup>*, Angelina Ceballos-Escalera<sup>1,2,#</sup>, Em
 
 ## Data Records
 
-The processed sequence data and metadata are available on the public NCBI SRA under BioProject accession X.  All other data files are available at Figshare https://doi.org/XXX. Figshare contains:
+The processed sequence data and metadata are available on the public NCBI SRA under BioProject accession X.  All other data files are available at Figshare https://doi.org/10.6084/m9.figshare.30913712. Figshare contains:
 1. The OTU x Sample table
 2. Full Taxonomic Identifications for each OTU as determined by dnabarcoder and BLAST against UNITE and subsequent dynamic clustering
 3. An interactive KRONA plot showing taxonomy and abundance of OTUs
