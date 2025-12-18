@@ -36,10 +36,10 @@ The following scripts contain all the code to produce the results shown in the m
 Phylogenetic Placement uses the phylogenetic trees of Llewellyn et al. (2025) under revision in MycoKeys. Sequence and phylogenetic tree files can be found at FigShare repository https://doi.org/10.6084/m9.figshare.30580976.v1
 
 ### 1. Contaminant Removal
-1. `./isContaminant.R` This script identifies and removes putative contaminant OTUs associated with negative controls, employing a prevalence-based approach
+1. `./isContaminant.R` This script identifies and removes putative contaminant OTUs associated with negative controls, employing a prevalence-based approach. Follows on from dynamic_clustering.R script of https://github.com/theo-llewellyn/UK_Survey
 
 ### 2. Phylogenetic Placement
 1. `./phylogenetic_placement.sh` pulls ophiostomatoid OTUs from full dataset, aligns to reference ITS MSAs, places phylogenetically and summarises results using GAPPA
 
 ### 3. PIME
-1. `./PIME.R` XXX
+1. `./PIME.R` uses prevalence filtering and Random Forests to detect core OTUs for Ips typographus
