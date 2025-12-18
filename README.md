@@ -25,10 +25,10 @@ The processed sequence data and metadata are available on the public NCBI SRA un
 1. The OTU x Sample table
 2. Full Taxonomic Identifications for each OTU as determined by dnabarcoder and BLAST against UNITE and subsequent dynamic clustering
 3. An interactive KRONA plot showing taxonomy and abundance of OTUs
-4. The ASV x Sample table
-5. Representative ITS2 sequences for all ASVs in FASTA format
-6. Representative ITS2 sequences for all OTUs in FASTA format
-7. Ophiostomatoid ITS2 sequences used for EPA-ng placement
+4. Representative ITS2 sequences for all OTUs in FASTA format
+5. Ophiostomatoid ITS2 sequences used for EPA-ng placement
+6. Ophiostomatales reference phylogeny with OTUs grafted
+7. Microascales reference phylogeny with OTUs grafted
 
 ## Analysis scripts
 The following scripts contain all the code to produce the results shown in the manuscript. Sequence denoising, and ASV/OTU identification were performed using the code from Ceballos-Escalera et al (2025), which can be found here: https://github.com/theo-llewellyn/UK_Survey
