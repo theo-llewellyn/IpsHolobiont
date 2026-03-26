@@ -1,8 +1,8 @@
-# A case of invasive holobionts: invasive Ips typographus brings new fungal phytopathogens into the United Kingdom
+# Co-introduction of fungal phytopathogens with an insect forest pest demonstrates holobiont invasion across a sea barrier
 This repository contains the code associated to the paper:
 <br/>
 
-A case of invasive holobionts: invasive Ips typographus brings new fungal phytopathogens into the United Kingdom
+Co-introduction of fungal phytopathogens with an insect forest pest demonstrates holobiont invasion across a sea barrier
 <br/>
 
 **Authors**:
