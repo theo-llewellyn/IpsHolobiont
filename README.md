@@ -1,8 +1,8 @@
-# Co-introduction of fungal phytopathogens with an insect forest pest demonstrates holobiont invasion across a sea barrier
+# A case of invasive holobionts: co-introduction of the destructive bark beetle Ips typographus and its microbiome brings novel fungal phytopathogens into the United Kingdom
 This repository contains the code associated to the paper:
 <br/>
 
-Co-introduction of fungal phytopathogens with an insect forest pest demonstrates holobiont invasion across a sea barrier
+A case of invasive holobionts: co-introduction of the destructive bark beetle Ips typographus and its microbiome brings novel fungal phytopathogens into the United Kingdom
 <br/>
 
 **Authors**:
